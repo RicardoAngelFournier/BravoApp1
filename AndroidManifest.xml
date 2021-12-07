@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="midien.kheldiente.equalizer">
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    
+    ... Other android manifest stuff
+  
+</manifest>
